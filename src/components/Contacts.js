@@ -19,7 +19,7 @@ function Contact() {
                             <div class="info-box">
                                 <i class="bx bx-map"></i>
                                 <h3>My Address</h3>
-                                <p> Door No.: 41-7-32, Vikram Durgaiah Street, Krishna Lanka, Vijayawada - 520013
+                                <p> Krishna Lanka, Vijayawada, Andhra Pradesh - 520013
                                 </p>
                             </div>
                         </div>
