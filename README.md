@@ -16,8 +16,24 @@ The purpose of this project is to showcase my skills, projects, and experience i
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio.git`
-2. Navigate to the project directory: `cd portfolio`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+1. Clone the repository:
+  ```bash
+    git clone https://github.com/your-username/portfolio.git
+  ```
+
+2. Navigate to the project directory:
+  ```bash
+   cd portfolio
+  ```
+
+3. Install dependencies:
+  ```bash
+   npm install
+  ```
+
+4. Start the development server:
+  ```bash
+   npm start
+  ```
+
 5. Open your browser and go to `http://localhost:3000` to view the portfolio
