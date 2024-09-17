@@ -52,7 +52,7 @@ export function About() {
                                     <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>20</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>B.tech UnderGraduate</span></li>
                                     <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong>
-                                        <span>vikramsridurganand7733@gmail.com
+                                        <span>vikramsridurganandbatchu@gmail.com
 </span></li>
                                 </ul>
                             </div>
